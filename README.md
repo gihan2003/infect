@@ -10,7 +10,7 @@
 <a href="https://bit.ly/3bgtjYk"><img title="infect" src="https://user-images.githubusercontent.com/49580304/96560822-a3963000-1273-11eb-8fc0-4ba87336cccf.jpg"></a>
 </p>
 <p align="center">
-<a href="https://github.com/gihan2003"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/gihan2003"><img title="Github" src="https://img.shields.io/badge/gihan2003-rightgreen?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/gihan2003"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
